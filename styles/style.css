@@ -97,3 +97,12 @@ body{
     font-size: 1.5rem;
     font-weight: 400;
 }
+
+.vgont {
+    width: auto;
+    height: 600px;
+}
+
+.devVgont{
+    color: black;
+}
